@@ -124,7 +124,7 @@
 ## 🚀 Deployment
 
 **Live Application:**  
-<a href="https://teacher-connect.onrender.com/" target="_blank">Teacher Connect</a>
+<a href="https://teacher-connect-kcew.onrender.com" target="_blank">Teacher Connect</a>
 
 
 ## 🚀 Deployment on Render
@@ -192,7 +192,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/thejaAshwin62/Teacher_Connect.git
+   git clone https://github.com/prabaharan-saminathan/Teacher-Connect
    cd Teacher_Connect
    ```
 2. Install dependencies:
@@ -216,9 +216,10 @@
 ## 🤝 Contribution
 
 This project is brought to life by:  
-- **Theja Ashwin H**  
-- **Sowdeshwari B**  
-- **Maheshwar**
+- **PRABAHARAN S**  
+- **PONNER B**  
+- **SUTHIR N**
+- **VINOTH P**
 
 Contributions are welcome! If you'd like to contribute, please submit a pull request or report an issue.
 
